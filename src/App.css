@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  /* background-color: #fdf9f0; */
+  /* width:100vw; */
+  /* height:150vh; */
+}
+
+.chat {
+  width:90vw;
+  /* height:80vh; */
+  margin-left: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.cardAlert {
+  background-color: #da39aa;
+  /* min-width: 100%;
+  max-width: 300; */
+}
+
+.cardCont {
+  /* min-width: 100%;  */
+  /* max-width: 400; */
+  background-color: #f4f1f0;
+}
+
+.divAvatar{
+  margin-left: 25%;
+}
